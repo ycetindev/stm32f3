@@ -1,0 +1,5 @@
+C:/Users/Cetin24/Documents/STM32F303VC_temp2printf/CMakeFiles/STM32F303VC_temp2printf.dir
+C:/Users/Cetin24/Documents/STM32F303VC_temp2printf/CMakeFiles/edit_cache.dir
+C:/Users/Cetin24/Documents/STM32F303VC_temp2printf/CMakeFiles/rebuild_cache.dir
+C:/Users/Cetin24/Documents/STM32F303VC_temp2printf/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Cetin24/Documents/STM32F303VC_temp2printf/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
